@@ -11,7 +11,7 @@ form {
     border: 3px solid black;
     width: 90%;
     max-width: 500px;
-    height: 65vh;
+    height: 68vh;
     text-align: center;
     padding: 20px;
     margin: 12px auto;
@@ -38,7 +38,7 @@ input {
 button {
     width: 100%;
     max-width: 150px;
-    height: 6vh;
+    height: 8vh;
     border-radius: 7px;
     cursor: pointer;
     font-size: 20px;
